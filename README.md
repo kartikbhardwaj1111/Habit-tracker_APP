@@ -1,291 +1,162 @@
+# 🎯 AI Habit Tracker
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Target.png" alt="Target" width="100" height="100" />
-  
-  # 🎯 AI Habit Tracker
-  
-  <p align="center">
-    <strong>Transform your daily routines into lasting habits with AI-powered insights</strong>
-  </p>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/React%20Native-0.81.5-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/Expo-54.0.20-000020?style=for-the-badge&logo=expo&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jest-Testing-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  </p>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/iOS-Compatible-000000?style=flat-square&logo=ios&logoColor=white" />
-    <img src="https://img.shields.io/badge/Android-Compatible-3DDC84?style=flat-square&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/Web-Compatible-FF6B6B?style=flat-square&logo=web&logoColor=white" />
-  </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Build+Better+Habits+Daily;AI-Powered+Progress+Tracking;Cross-Platform+Mobile+App" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Target" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Check%20Mark%20Button.png" alt="Check" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Progress" width="60" height="60" />
+
+**A smart habit tracking app that helps you build lasting routines with AI-powered insights**
+
+Created by **Kartik Bhardwaj** | [Portfolio](https://portfolio-website-lilac-xi-72.vercel.app/)
+
+![React Native](https://img.shields.io/badge/React%20Native-0.81.5-61DAFB?style=flat&logo=react)
+![Expo](https://img.shields.io/badge/Expo-54.0.20-000020?style=flat&logo=expo)
+![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android%20%7C%20Web-lightgrey)
+
 </div>
 
----
+## 📱 What is this app?
 
-## 🌟 Features
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="30" height="30" /> AI Habit Tracker is a cross-platform mobile application that helps you:
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="60" height="60" />
-      <h3>📊 Smart Tracking</h3>
-      <p>Advanced progress analytics with completion history and streak tracking</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="60" height="60" />
-      <h3>🤖 AI Insights</h3>
-      <p>Personalized motivational tips and habit optimization suggestions</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="60" height="60" />
-      <h3>🏆 Achievements</h3>
-      <p>Unlock badges and celebrate milestones in your habit journey</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="60" height="60" />
-      <h3>☁️ Offline First</h3>
-      <p>Works seamlessly without internet connection using local storage</p>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="60" height="60" />
-      <h3>📱 Cross Platform</h3>
-      <p>Native performance on iOS, Android, and Web platforms</p>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="60" height="60" />
-      <h3>🎨 Beautiful UI</h3>
-      <p>Modern design with smooth animations and responsive layouts</p>
-    </td>
-  </tr>
-</table>
-
----
+- **Track daily habits** with simple tap-to-complete interface
+- **Get AI insights** personalized motivational tips based on your progress  
+- **Earn achievements** unlock badges and celebrate milestones
+- **View analytics** see your streaks, completion rates, and progress charts
+- **Work offline** all data stored locally, no internet required
 
 ## 🚀 Quick Start
 
-### Prerequisites
-
-- Node.js (v16 or higher)
-- npm or yarn
-- Expo CLI
-- iOS Simulator / Android Emulator (optional)
-
-### Installation
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="40" height="40" />
+</div>
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/ai-habit-tracker.git
-
-# Navigate to project directory
-cd ai-habit-tracker
+# Clone the project
+git clone https://github.com/kartikbhardwaj/ai-habit-tracker.git
 
 # Install dependencies
+cd ai-habit-tracker
 npm install
 
-# Start the development server
+# Run the app
 npm start
 ```
 
-### Running the App
+**Run on different platforms:**
+- 📱 iOS: `npm run ios`
+- 🤖 Android: `npm run android` 
+- 🌐 Web: `npm run web`
+- 📲 Physical device: Scan QR code with Expo Go app
 
-<table>
-  <tr>
-    <th>Platform</th>
-    <th>Command</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>📱 iOS</td>
-    <td><code>npm run ios</code></td>
-    <td>Launch in iOS Simulator</td>
-  </tr>
-  <tr>
-    <td>🤖 Android</td>
-    <td><code>npm run android</code></td>
-    <td>Launch in Android Emulator</td>
-  </tr>
-  <tr>
-    <td>🌐 Web</td>
-    <td><code>npm run web</code></td>
-    <td>Open in web browser</td>
-  </tr>
-  <tr>
-    <td>📲 Device</td>
-    <td>Scan QR code with Expo Go</td>
-    <td>Run on physical device</td>
-  </tr>
-</table>
+## ✨ Key Features
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="40" height="40" />
+</div>
 
-## 🏗️ Architecture
+### 🏠 Home Screen
+- View all your habits in a clean dashboard
+- One-tap completion with visual feedback
+- Progress rings showing completion percentage
+- Quick habit creation with floating button
 
-<details>
-<summary><strong>📁 Project Structure</strong></summary>
+### 🤖 AI Insights
+- Personalized motivational messages
+- Smart habit recommendations
+- Progress pattern analysis
+- Tips to improve consistency
 
-```
-📦 ai-habit-tracker/
-├── 📱 App.js                 # Main app component with initialization
-├── 📄 app.json              # Expo configuration
-├── 📦 package.json          # Dependencies and scripts
-├── 🧪 jest.config.js        # Testing configuration
-└── 📂 src/
-    ├── 🧩 components/        # Reusable UI components
-    │   ├── 🎯 HabitCard.js   # Individual habit display
-    │   ├── 🔘 Button.js      # Custom button component
-    │   ├── 📊 ProgressRing.js # Circular progress indicator
-    │   ├── 🏆 AchievementBadge.js # Achievement display
-    │   └── 🧪 __tests__/     # Component tests
-    ├── 🧭 navigation/        # App navigation setup
-    │   └── AppNavigator.js   # Stack navigator configuration
-    ├── 📱 screens/           # Screen components
-    │   ├── 🏠 HomeScreen.js  # Main habits dashboard
-    │   ├── ➕ AddHabitScreen.js # Habit creation form
-    │   ├── 💡 InsightsScreen.js # AI-powered insights
-    │   ├── 🏆 AchievementsScreen.js # User achievements
-    │   └── 🌟 SplashScreen.js # App loading screen
-    ├── 🎨 styles/            # Global styling system
-    │   └── globalStyles.js   # Design tokens and themes
-    └── 🔧 utils/             # Utility functions
-        ├── 💾 storage.js     # AsyncStorage operations
-        ├── 📊 progressCalculations.js # Progress analytics
-        ├── 🤖 aiTips.js      # AI insight generation
-        ├── 🏆 achievementSystem.js # Achievement logic
-        ├── 🌐 networkStatus.js # Connectivity monitoring
-        ├── 📱 appStateManager.js # App state management
-        └── 🧪 __tests__/     # Utility tests
-```
+### 🏆 Achievements
+- Unlock badges for milestones (7-day streak, 30-day streak, etc.)
+- Visual celebration animations
+- Track your overall progress statistics
 
-</details>
+### 📊 Analytics
+- Daily/weekly completion tracking
+- Streak counters
+- Habit completion history
+- Beautiful progress visualizations
 
-<details>
-<summary><strong>🔧 Tech Stack</strong></summary>
+## 🛠️ Tech Stack
 
-### Core Technologies
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" height="40" />
+</div>
+
 - **React Native 0.81.5** - Cross-platform mobile framework
-- **Expo ~54.0.20** - Development platform and toolchain
-- **React Navigation 7.x** - Navigation library
-- **AsyncStorage** - Local data persistence
-
-### Development Tools
+- **Expo 54.0.20** - Development platform
+- **AsyncStorage** - Local data storage
+- **React Navigation** - Screen navigation
 - **Jest** - Testing framework
-- **React Native Testing Library** - Component testing utilities
-- **Babel** - JavaScript transpilation
-- **ESLint** - Code linting (ready to configure)
 
-### Key Libraries
-- **@expo/vector-icons** - Icon library
-- **expo-linear-gradient** - Gradient components
-- **react-native-safe-area-context** - Safe area handling
+## 📁 Project Structure
 
-</details>
-
----
+```
+src/
+├── components/          # Reusable UI components
+├── screens/            # App screens (Home, Add Habit, Insights, etc.)
+├── navigation/         # Navigation setup
+├── utils/              # Helper functions and AI logic
+└── styles/             # Global styling system
+```
 
 ## 🧪 Testing
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="40" height="40" />
 </div>
 
-### Test Coverage
-
-- ✅ **Component Tests** - UI component behavior and rendering
-- ✅ **Utility Tests** - Business logic and data operations
-- ✅ **Integration Tests** - Cross-component functionality
-- ✅ **User Flow Tests** - Complete user journey testing
-
-### Running Tests
-
+Run the test suite:
 ```bash
-# Run all tests
-npm test
-
-# Run tests in watch mode
-npm run test:watch
-
-# Run tests with coverage
-npm test -- --coverage
+npm test                # Run all tests
+npm run test:watch      # Watch mode
+npm test -- --coverage  # Coverage report
 ```
 
----
-
-## 📊 Development Status
+## 👨💻 About the Developer
 
 <div align="center">
-  
-| Feature | Status | Description |
-|---------|--------|--------------|
-| 🏗️ **Core Architecture** | ✅ Complete | Project structure, navigation, and styling system |
-| 💾 **Data Management** | ✅ Complete | AsyncStorage integration with validation |
-| 🎨 **UI Components** | ✅ Complete | Reusable components with animations |
-| 📱 **Screens** | ✅ Complete | All main screens implemented |
-| 🤖 **AI Integration** | ✅ Complete | Motivational tips and insights |
-| 🏆 **Achievement System** | ✅ Complete | Badge unlocking and progress tracking |
-| 🧪 **Testing Suite** | ✅ Complete | Comprehensive test coverage |
-| 🔒 **Security** | ⚠️ In Progress | Addressing CSRF and timing vulnerabilities |
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="60" height="60" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=18&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=400&lines=Kartik+Bhardwaj;Full-Stack+Developer;Mobile+App+Creator" alt="Developer" />
 </div>
 
----
+**Kartik Bhardwaj** is a full-stack developer passionate about creating apps that improve people's daily lives. This habit tracker combines beautiful design with practical functionality to help users build better routines.
 
-## 🛡️ Security
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="60" height="60" />
-</div>
-
-### Security Measures
-- 🔐 **Data Validation** - Comprehensive input validation
-- 💾 **Secure Storage** - Encrypted local data storage
-- 🌐 **Network Security** - Secure API communication
-- 🔍 **Code Analysis** - Regular security audits
-
-### Known Issues
-- ⚠️ **CSRF Protection** - Currently being addressed
-- ⚠️ **Timing Attacks** - Security patches in progress
-
----
+[Visit Portfolio →](https://portfolio-website-lilac-xi-72.vercel.app/)
 
 ## 🤝 Contributing
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" />
 </div>
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### Development Workflow
-
-1. 🍴 Fork the repository
-2. 🌿 Create a feature branch
-3. 💻 Make your changes
-4. 🧪 Add tests for new features
-5. ✅ Ensure all tests pass
-6. 📝 Update documentation
-7. 🚀 Submit a pull request
-
----
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/new-feature`)
+3. Commit your changes (`git commit -m 'Add new feature'`)
+4. Push to the branch (`git push origin feature/new-feature`)
+5. Open a Pull Request
 
 ## 📄 License
 
-<div align="center">
-  <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Heart%20with%20Arrow.png" width="40" height="40" />
-  
-  <p><strong>Made with ❤️ for building better habits</strong></p>
-</div>
+MIT License - feel free to use this project for learning or building your own habit tracker!
 
 ---
 
 <div align="center">
-  <h3>🌟 Star this repo if you found it helpful! 🌟</h3>
-  
-  <p>
-    <a href="#top">⬆️ Back to Top</a>
-  </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=400&lines=Built+with+❤️+by+Kartik+Bhardwaj;⭐+Star+if+helpful!" alt="Footer" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Party%20Popper.png" width="30" height="30" />
+**Thank you for checking out AI Habit Tracker!**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Party%20Popper.png" width="30" height="30" />
+
 </div>
